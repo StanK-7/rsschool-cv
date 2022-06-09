@@ -22,3 +22,14 @@ Now I am up to a new career change and got interested in programming. I learnt a
 - Git/Github
 - Sketchup
 
+### Code example
+
+```
+function multiply(a, b){
+  a * b
+}
+```
+### Education
+2015 - Russian University of Theatre Arts (GITIS). Actor of Musical Theatre
+2006 - MGIMO-university (Moscow State University of International relations). Master of economics
+
