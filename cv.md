@@ -14,3 +14,11 @@ After graduating from MGIMO university I started my career as a finance manager 
 Afterwards I changed my career path and studied at the Russian university of theatrical art - GITIS. From 2014 I am a chorus singer in the Bolshoi theatre in Moscow. 
 Now I am up to a new career change and got interested in programming. I learnt about RSschool in one telegram blog and enrolled to the JS-FE stage 0 course.
 
+### Skills
+
+- HTML
+- CSS
+- Javascript (know just the word)
+- Git/Github
+- Sketchup
+
