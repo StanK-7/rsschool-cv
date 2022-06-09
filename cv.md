@@ -29,7 +29,19 @@ function multiply(a, b){
   a * b
 }
 ```
+
+### Professional experience
+
+2008-2010 - KDL TEST Group, private medical laboratory network (5 entities), Finance Director 
+2006-2008 - Management trainee in Finance in BAT Russia 
+
 ### Education
 2015 - Russian University of Theatre Arts (GITIS). Actor of Musical Theatre
 2006 - MGIMO-university (Moscow State University of International relations). Master of economics
 
+### Languages
+Russian - native
+English - fluent (C1)
+French - B2
+German - B2
+Italian - B2
